@@ -1,0 +1,9 @@
+requests
+logging
+ratelimit
+sqlalchemy
+datetime
+pandas
+argparse
+mysql
+pyyaml
