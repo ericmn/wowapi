@@ -1,7 +1,0 @@
-REGION = 'us'
-LOCALE = 'en_US'
-
-CLIENT_ID = 'battlenet_client_id>'
-CLIENT_SECRET = '<battlenet_client_secret>'
-
-CONN_STRING = "mysql+mysqlconnector://<user>:<password>@<server>:<port>/<db>"
